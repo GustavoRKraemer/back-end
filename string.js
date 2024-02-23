@@ -1,0 +1,10 @@
+let nome = "Gustavo";
+let endereço = 'Novo Horizinte';
+let gata1 = `mel`;
+let gata2 = `anye`;
+let gata3 = `melada`;
+console.log(`o nome da gata1 é ${gata1}`);
+console.log(`o nome da gata2 é ${gata2}`);
+console.log(`o nome da gata3 é ${gata3}`);
+console.log(`o nome é ${nome}`);
+console.log(`meu endereço é ${endereço}`);
